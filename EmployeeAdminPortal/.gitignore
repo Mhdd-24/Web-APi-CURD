@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# VS Code settings
+.vscode/
+
+# Dependency directories
+node_modules/
